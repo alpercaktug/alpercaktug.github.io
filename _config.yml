@@ -72,7 +72,7 @@ content:
 
           • Designed and implemented test automation framework from scratch using Ruby, Selenium, and Cucumber.<br>
           • Integrated test automation into CI/CD pipelines with Jenkins, BrowserStack, and GitHub Actions for seamless execution.<br>
-          • Established cross-browser, parallel execution, and rerun strategies to improve test reliability and execution time.<br>
+          • Established cross-browser, parallel execution, and rerun strategies to improve test reliability and execution time.<br><br>
 
       - layout: left
         title: Payten
@@ -89,7 +89,7 @@ content:
 
            • Developed and maintained test automation framework for a high-traffic payment gateway.<br>
            • Automated browser testing with Selenium (Java) and API testing with RestAssured.<br>
-           • Created BDD test scenarios with Cucumber to enhance test clarity and coverage.<br>
+           • Created BDD test scenarios with Cucumber to enhance test clarity and coverage.<br><br>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
