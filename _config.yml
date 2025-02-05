@@ -99,11 +99,11 @@ content:
         caption: 2016 - 2021
         sub_title: BSc Computer Science
         description: | # this will include new lines to allow paragraphs
-            During my time at DEU, I gained a strong foundation in computer science, covering core topics such as algorithms, data structures, object-oriented programming, and database management.<br>
-            My coursework also included software engineering, artificial intelligence, computer networks, and cybersecurity, providing me with a well-rounded technical background.<br>
+            During my time at DEU, I gained a strong foundation in computer science, covering core topics such as algorithms, data structures, object-oriented programming, and database management.
+            My coursework also included software engineering, artificial intelligence, computer networks, and cybersecurity, providing me with a well-rounded technical background.<br><br>
 
-            Additionally, I developed hands-on experience in programming languages like Java, C, and Python through various projects and assignments.  <br>
-            I also explored web development, mobile application development, and cloud computing, which enhanced my understanding of modern software technologies.  <br><br>
+            Additionally, I developed hands-on experience in programming languages like Java, C, and Python through various projects and assignments.
+            I also explored web development, mobile application development, and cloud computing, which enhanced my understanding of modern software technologies.<br><br>
 
             Beyond academics, I was an active member of the *DEU Computer Science Club*, where I collaborated on projects, attended seminars, and participated in coding competitions.  
 
