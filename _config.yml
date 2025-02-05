@@ -16,7 +16,7 @@ darkmode: never
 
 # Social links
 #twitter_username: facespics
-github_username:  alpercaktug
+github_username: alpercaktug
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -31,27 +31,27 @@ linkedin_username: alpercaktug
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  - title: itsgoingto.be
+    icon: fas fa-globe
+    url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
 #Google Analytics and Tag Manager
- #Using more than one of these may cause issues with reporting
- #gtm: "GTM-0000000"
- #gtag: "UA-00000000-0"
- #google_analytics: "UA-00000000-0"
+#Using more than one of these may cause issues with reporting
+#gtm: "GTM-0000000"
+#gtag: "UA-00000000-0"
+#google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, 
-  I am an experienced software engineer in test, specializing in designing and implementing robust test automation frameworks.
-  My expertise includes UI, API, and mobile test automation, behavior-driven development, CI/CD pipeline integration, and test strategy development. 
-  I’m passionate about enhancing software quality, improving test strategies, and continuous testing.
+  I am an experienced QA Engineer, specializing in designing and implementing robust test automation frameworks.<br>
+  My expertise includes UI, API, and mobile test automation, behavior-driven development, CI/CD pipeline integration, and test strategy development.<br>
+  I’m passionate about enhancing software quality, improving test strategies, and continuous testing.<br>
 
 content:
   - title: Experience # Title for the section
@@ -63,33 +63,33 @@ content:
         link_text: hotelrunner.com
         sub_title: Test Automation Engineer
         caption: February 2024 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        #quote: >
+        # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            In my role as a Test Automation Engineer at HotelRunner, I led the design and implementation of a scalable test automation framework using Ruby, Selenium, and Cucumber. 
-            By seamlessly integrating this framework into the CI/CD pipelines, I optimized workflows, automated test executions, and added detailed reports to increase overall efficiency.
-            My contributions to the test strategy also played a key role in enhancing the quality of the SDLC.<br><br>
+          In my role as a Test Automation Engineer at HotelRunner, I led the design and implementation of a scalable test automation framework using Ruby, Selenium, and Cucumber. 
+          By seamlessly integrating this framework into the CI/CD pipelines, I optimized workflows, automated test executions, and added detailed reports to increase overall efficiency.
+          My contributions to the test strategy also played a key role in enhancing the quality of the SDLC.<br><br>
 
-            • Designed and implemented test automation framework from scratch using Ruby, Selenium, and Cucumber.<br>
-            • Integrated test automation into CI/CD pipelines with Jenkins, BrowserStack, and GitHub Actions for seamless execution.<br>
-            • Established cross-browser, parallel execution, and rerun strategies to improve test reliability and execution time.<br>
+          • Designed and implemented test automation framework from scratch using Ruby, Selenium, and Cucumber.<br>
+          • Integrated test automation into CI/CD pipelines with Jenkins, BrowserStack, and GitHub Actions for seamless execution.<br>
+          • Established cross-browser, parallel execution, and rerun strategies to improve test reliability and execution time.<br>
 
       - layout: left
         title: Payten
-        link: hotelrunner.com
+        link: payten.com
         link_text: payten.com
         sub_title: Software Development Engineer in Test
         caption: March 2021 - February 2024
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-           In my role as a Software Development Engineer in Test at Payten, I responsible for developing and maintaining a robust test automation framework for a high-traffic payment gateway. 
-           I automated critical testing processes to enhance test clarity and coverage. 
-           This resulted in increased efficiency and reliability of the payment gateway system, ensuring a seamless user experience for customers.<br><br>
+          In my role as a Software Development Engineer in Test at Payten, I responsible for developing and maintaining a robust test automation framework for a high-traffic payment gateway. 
+          I automated critical testing processes to enhance test clarity and coverage. 
+          This resulted in increased efficiency and reliability of the payment gateway system, ensuring a seamless user experience for customers.<br><br>
 
-            • Developed and maintained test automation framework for a high-traffic payment gateway.<br>
-            • Automated browser testing with Selenium (Java) and API testing with RestAssured.<br>
-            • Created BDD test scenarios with Cucumber to enhance test clarity and coverage.<br>
+           • Developed and maintained test automation framework for a high-traffic payment gateway.<br>
+           • Automated browser testing with Selenium (Java) and API testing with RestAssured.<br>
+           • Created BDD test scenarios with Cucumber to enhance test clarity and coverage.<br>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -98,43 +98,14 @@ content:
         title: Dokuz Eylül University
         caption: 2016 - 2021
         sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+            During my time at DEU, I gained a strong foundation in computer science, covering core topics such as algorithms, data structures, object-oriented programming, and database management.<br>
+            My coursework also included software engineering, artificial intelligence, computer networks, and cybersecurity, providing me with a well-rounded technical background.<br>
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+            Additionally, I developed hands-on experience in programming languages like Java, C, and Python through various projects and assignments.  <br>
+            I also explored web development, mobile application development, and cloud computing, which enhanced my understanding of modern software technologies.  <br><br>
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-        - title:  sproogen/modern-resume-theme
-          icon: fab fa-github
-          url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-          description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+            Beyond academics, I was an active member of the *DEU Computer Science Club*, where I collaborated on projects, attended seminars, and participated in coding competitions.  
 
 # Footer
 footer_show_references: true
@@ -148,4 +119,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
