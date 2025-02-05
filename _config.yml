@@ -110,12 +110,12 @@ content:
   - title: Technical Skills
     layout: list
     content:
-      - layout: left
+      - layout: center
         description: |
-            **Languages:** Proficient in Java and Ruby; experienced with C and Python.<br>
+            **Languages:** Proficient in Java; experienced with Ruby.<br>
             **Frameworks:** Expertise in Selenium, Appium, RestAssured and Cucumber.<br>
-            **Testing Types:** Specialized in UI, API, and Mobile Test Automation.<br>
-            **Development Methodologies:** Behavior-Driven Development (BDD), Object-Oriented Programming (OOP), Page Object Model Design Pattern (POM).<br>
+            **Testing Types:** Specialized in UI and API; experienced with Mobile Test Automation.<br>
+            **Development Methodologies:** Strong background with Behavior-Driven Development (BDD), Object-Oriented Programming (OOP), Page Object Model Design Pattern (POM). <br>
             **CI/CD Integration:** Skilled in integrating test automation into CI/CD pipelines using Jenkins, BrowserStack, and GitHub Actions.<br>
             **Version Control:** Experienced with Git and GitHub for version control and collaboration.<br>
 
