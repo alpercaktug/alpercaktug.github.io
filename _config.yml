@@ -107,6 +107,18 @@ content:
 
             Beyond academics, I was an active member of the *DEU Computer Science Club*, where I collaborated on projects, attended seminars, and participated in coding competitions.  
 
+  - title: Technical Skills
+    layout: list
+    content:
+      - layout: left
+        description: |
+            Programming Languages: Proficient in Java and Ruby; experienced with C and Python.<br>
+            Frameworks: Expertise in Selenium, Appium, RestAssured and Cucumber.<br>
+            Testing Types: Specialized in UI, API, and Mobile Test Automation.<br>
+            Development Methodologies: Behavior-Driven Development (BDD), Object-Oriented Programming (OOP), Page Object Model Design Pattern (POM).<br>
+            CI/CD Integration: Skilled in integrating test automation into CI/CD pipelines using Jenkins, BrowserStack, and GitHub Actions.<br>
+            Version Control: Experienced with Git and GitHub for version control and collaboration.<br>
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
