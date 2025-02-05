@@ -38,11 +38,11 @@ additional_links:
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+#Google Analytics and Tag Manager
+ #Using more than one of these may cause issues with reporting
+ gtm: "GTM-0000000"
+ gtag: "UA-00000000-0"
+ google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
@@ -59,7 +59,7 @@ content:
     content:
       - layout: left
         title: HotelRunner
-        #link: hotelrunner.com
+        link: hotelrunner.com
         link_text: hotelrunner.com
         sub_title: Test Automation Engineer
         caption: February 2024 - Present
@@ -68,15 +68,15 @@ content:
         description: | # this will include new lines to allow paragraphs
             In my role as a Test Automation Engineer at HotelRunner, I led the design and implementation of a scalable test automation framework using Ruby, Selenium, and Cucumber. 
             By seamlessly integrating this framework into the CI/CD pipelines, I optimized workflows, automated test executions, and added detailed reports to increase overall efficiency.
-            My contributions to the test strategy also played a key role in enhancing the quality of the SDLC.
+            My contributions to the test strategy also played a key role in enhancing the quality of the SDLC.<br><br>
 
-            • Designed and implemented test automation framework from scratch using Ruby, Selenium, and Cucumber.
-            • Integrated test automation into CI/CD pipelines with Jenkins, BrowserStack, and GitHub Actions for seamless execution.
-            • Established cross-browser, parallel execution, and rerun strategies to improve test reliability and execution time.
+            • Designed and implemented test automation framework from scratch using Ruby, Selenium, and Cucumber.<br>
+            • Integrated test automation into CI/CD pipelines with Jenkins, BrowserStack, and GitHub Actions for seamless execution.<br>
+            • Established cross-browser, parallel execution, and rerun strategies to improve test reliability and execution time.<br>
 
       - layout: left
         title: Payten
-        #link: hotelrunner.com
+        link: hotelrunner.com
         link_text: payten.com
         sub_title: Software Development Engineer in Test
         caption: March 2021 - February 2024
@@ -85,11 +85,11 @@ content:
         description: | # this will include new lines to allow paragraphs
            In my role as a Software Development Engineer in Test at Payten, I responsible for developing and maintaining a robust test automation framework for a high-traffic payment gateway. 
            I automated critical testing processes to enhance test clarity and coverage. 
-           This resulted in increased efficiency and reliability of the payment gateway system, ensuring a seamless user experience for customers.
+           This resulted in increased efficiency and reliability of the payment gateway system, ensuring a seamless user experience for customers.<br><br>
 
-            • Developed and maintained test automation framework for a high-traffic payment gateway.
-            • Automated browser testing with Selenium (Java) and API testing with RestAssured.
-            • Created BDD test scenarios with Cucumber to enhance test clarity and coverage.
+            • Developed and maintained test automation framework for a high-traffic payment gateway.<br>
+            • Automated browser testing with Selenium (Java) and API testing with RestAssured.<br>
+            • Created BDD test scenarios with Cucumber to enhance test clarity and coverage.<br>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
