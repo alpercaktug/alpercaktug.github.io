@@ -9,7 +9,7 @@ version: 2
 name: Alper Çaktuğ
 title: Senior Software Test Engineer
 email: alpercaktug@outlook.com
-website: https://medium.com/@alpercaktug
+#website: https://medium.com/@alpercaktug
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -31,9 +31,9 @@ linkedin_username: alpercaktug
 
 # Additional icon links
 additional_links:
-  - title: itsgoingto.be
-    icon: fas fa-globe
-    url: https://www.itsgoingto.be
+  - title: medium.com
+    icon: fab fa-medium-m
+    url: https://medium.com/@alpercaktug
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
