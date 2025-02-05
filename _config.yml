@@ -108,9 +108,9 @@ content:
             Beyond academics, I was an active member of the *DEU Computer Science Club*, where I collaborated on projects, attended seminars, and participated in coding competitions.  
 
   - title: Technical Skills
-    layout: list
+    layout: text
     content:
-      - layout: center
+      - layout: left
         description: |
             **Languages:** Proficient in Java; experienced with Ruby.<br>
             **Frameworks:** Expertise in Selenium, Appium, RestAssured and Cucumber.<br>
