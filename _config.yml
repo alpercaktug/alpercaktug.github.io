@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Alper Çaktuğ
-title: Senior Test Engineer
+title: Senior Software Test Engineer
 email: alpercaktug@outlook.com
 #website: www.github.com/sproogen/resume-theme
 
@@ -49,7 +49,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi,<br> 
-  I am an experienced QA Engineer, specializing in designing and implementing robust test automation frameworks.<br>
+  I am an experienced Software Test Engineer, specializing in designing and implementing robust test automation frameworks.<br>
   My expertise includes UI, API, and mobile test automation, behavior-driven development, CI/CD pipeline integration, and test strategy development.
   I’m passionate about enhancing software quality, improving test strategies, and continuous testing.<br>
 
